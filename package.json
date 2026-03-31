@@ -13,7 +13,7 @@
 	"type": "module",
 	"exports": {
 		"types": "./distribution/index.d.ts",
-		"default": "./distribution/index.js"
+		"default": "./distribution/index.js" 
 	},
 	"sideEffects": false,
 	"engines": {
